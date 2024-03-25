@@ -1,0 +1,26 @@
+node_modules
+
+# build directory
+build
+dist
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dependency directories
+pnpm-lock.yaml
+yarn.lock
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Editor/IDE backup files
+*~
